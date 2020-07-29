@@ -7,7 +7,8 @@ for include the library in your project just download the Xcomponents folder to 
 
 ### buttons
 primary button
-        <button class="Xbtn-primary"></button>
+	`<button class="Xbtn-primary"></button>`
+	
 dark button
-        <button class="Xbtn-dark"></button>
+        `<button class="Xbtn-dark"></button>`
 
