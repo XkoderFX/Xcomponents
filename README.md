@@ -6,9 +6,17 @@ for include the library in your project just download the Xcomponents folder to 
 
 
 ### buttons
-primary button
-	`<button class="Xbtn-primary"></button>`
+primary button `<button class="Xbtn-primary"></button>`
 	
-dark button
-        `<button class="Xbtn-dark"></button>`
+dark button `<button class="Xbtn-dark"></button>`
 
+### form controls
+checkbox `<input type="checkbox" class="Xcheckbox" id="">`
+
+radio `<input type="radio" class="Xradio" id="">`
+
+text input `<input class="Xinput-text" type="text">`
+
+select `<select class="Xselect" id="">
+		<option value="">Dwad</option>
+	</select>`
