@@ -1,7 +1,8 @@
 # Xcomponents
 a simple library for saving time of styling elements
 for include the library in your project just download the Xcomponents folder to your project directory
-`<link rel="stylesheet" href="Xcomponents/css/main.css" />`
+
+after that add this line `<link rel="stylesheet" href="Xcomponents/css/main.css" />`
 
 ## guide
 
