@@ -1,6 +1,14 @@
 # Xcomponents
 a simple library for saving time of styling elements
 for include the library in your project just download the Xcomponents folder to your project directory
+`
+        <script
+            src="https://kit.fontawesome.com/f314cd0193.js"
+            crossorigin="anonymous"
+        ></script>
+
+        <link rel="stylesheet" href="Xcomponents/css/main.css" />
+`
 
 ## guide
 
