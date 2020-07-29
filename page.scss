@@ -1,0 +1,18 @@
+code {
+    display: block;
+    margin: 10px 0 10px 0;
+}
+
+.buttonsDescribe {
+    .buttons {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, 350px);
+        .btnExplain {
+            code {
+                display: block;
+                padding: 10px;
+            }
+            margin-right: 20px;
+        }
+    }
+}
